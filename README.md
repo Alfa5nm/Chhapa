@@ -50,7 +50,9 @@ The team repository is [Alfa5nm/Chhapa](https://github.com/Alfa5nm/Chhapa).
 
 ## Verification and submission evidence
 
-On 16 November 2026 (Asia/Dhaka), all 12 tests passed with 81 assertions on SQLite. The dedicated MariaDB database migrated and seeded successfully; real Chrome walkthroughs verified creation, editing, publication, draft privacy, validation and business isolation. Six genuine screenshots are under `docs/evidence/sprint-1/screenshots/` and inserted into `docs/Chhapa_CSE470_SRS_Sprint1_EVIDENCED.docx`. Original SRS preserved. See the evidence records and Sprint 1 report for limits and pending team/submission checks. Local main has no commits or remote; source has not been pushed.
+On 16 November 2026 (Asia/Dhaka), all 12 tests passed with 81 assertions on SQLite. The dedicated MariaDB database migrated and seeded successfully; real Chrome walkthroughs verified creation, editing, publication, draft privacy, validation and business isolation. Six genuine screenshots are under `docs/evidence/sprint-1/screenshots/` and inserted into `docs/Chhapa_CSE470_SRS_Sprint1_EVIDENCED.docx`. Original SRS preserved. See the evidence records and Sprint 1 report for limits and pending team/submission checks.
+
+The project, tests, screenshots and SRS were subsequently committed and pushed to public `main` at the team's request. The initial implementation/evidence commit is [abf602a](https://github.com/Alfa5nm/Chhapa/commit/abf602a8289120d60ddf65560cb1e8ca731d5090). The SRS and capture records retain their original pre-publication state; see [publication record](docs/sprint-1/PUBLICATION.md) for the later GitHub update. Credentials, development databases, dependencies and runtime logs are excluded.
 
 ## AI assistance
 

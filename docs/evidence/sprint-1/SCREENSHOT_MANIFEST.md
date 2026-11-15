@@ -1,5 +1,7 @@
 # Sprint 1 screenshot manifest
 
+Publication update: these captures were subsequently published with source in commit `abf602a8289120d60ddf65560cb1e8ca731d5090` on public GitHub main. The uncommitted revision below describes capture time; see `docs/sprint-1/PUBLICATION.md`.
+
 | SRS marker | Filename | Required evidence |
 | --- | --- | --- |
 | F01-01 | catalogue-dashboard.png | Owner workspace with draft and published products |

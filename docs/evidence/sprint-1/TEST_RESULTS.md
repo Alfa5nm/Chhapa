@@ -1,5 +1,7 @@
 # Sprint 1 test results
 
+Publication update: the verified source and evidence were subsequently pushed to public GitHub main in commit `abf602a8289120d60ddf65560cb1e8ca731d5090`. The revision/private-visibility descriptions below refer to capture time; see `docs/sprint-1/PUBLICATION.md`.
+
 ## Current verification — 16 November 2026, Asia/Dhaka
 
 All F01-T01–T12 passed again: **12 tests, 81 assertions**. Command: `C:\xampp\php\php.exe vendor\bin\phpunit --colors=never`. Raw output: [phpunit-output.txt](phpunit-output.txt). Environment: PHP 8.2.12, Laravel 12.72.0, PHPUnit 11.5.58, in-memory SQLite. Earlier blocked attempts below are historical and superseded by this run.

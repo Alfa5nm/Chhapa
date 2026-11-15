@@ -6,8 +6,8 @@
 
 **Evidence** — See the [test results](../evidence/sprint-1/TEST_RESULTS.md), raw PHPUnit output, source/image hash inventories, and [screenshot manifest](../evidence/sprint-1/SCREENSHOT_MANIFEST.md).
 
-**Repository** — https://github.com/Alfa5nm/Chhapa exists and is private (connected GitHub metadata verified). Local main has no commits or configured remote. Nothing was pushed. No retrospective Git history or student authorship is claimed.
+**Repository** — https://github.com/Alfa5nm/Chhapa is public. On 16 November 2026, at the student's request, initial commit `abf602a8289120d60ddf65560cb1e8ca731d5090` was pushed to main and public visibility verified. Local origin is configured and main tracks origin/main. The original SRS/capture records describe the earlier uncommitted state; see PUBLICATION.md. No retrospective Git history or individual student contribution is claimed.
 
-**Remaining checks** — Confirm faculty access, actual individual contributions and technical understanding, factual Git history/source publication, requirements/feature-count approval, and the submission destination. No team review ceremony is claimed. This evidence was collected on 16 November, after the stated 15 November checkpoint, and does not establish timely submission. Apache deployment, full automated tests on MariaDB, load/concurrency, and comprehensive cross-browser/accessibility checks were not performed.
+**Remaining checks** — Confirm faculty collaborator requirements, actual individual contributions and technical understanding, requirements/feature-count approval, and the submission destination. No team review ceremony is claimed. This evidence was collected on 16 November, after the stated 15 November checkpoint, and does not establish timely submission. Apache deployment, full automated tests on MariaDB, load/concurrency, and comprehensive cross-browser/accessibility checks were not performed.
 
 **AI use** — ChatGPT Codex assisted with implementation, tests, setup, real browser verification, screenshot capture and documentation. Actual student changes and technical review remain to be recorded.
